@@ -1,0 +1,8 @@
+{
+  "appId": "com.rennerwin.qrscanner",
+  "appName": "qrScanner",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
